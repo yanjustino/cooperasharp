@@ -3,7 +3,7 @@
 </p>
 
 
-O Coopera#sharp é uma iniciativa colaborativa voltada para a comunidade de desenvolvedores(as) C#, com o objetivo de exercitar a avaliação crítica de código, promover boas práticas de desenvolvimento e fomentar discussões saudáveis sobre arquitetura e design de software.
+O **CooperaSharp** é uma iniciativa colaborativa voltada para a comunidade de desenvolvedores(as) C#, com o objetivo de exercitar a avaliação crítica de código, promover boas práticas de desenvolvimento e fomentar discussões saudáveis sobre arquitetura e design de software.
 
 A cada semana, um novo desafio é lançado com exemplos simples e didáticos, pensados para provocar reflexão e gerar debate. A ideia é aprender com situações reais, muitas vezes inspiradas em códigos legados ou em padrões que vemos no dia a dia da indústria.
 
