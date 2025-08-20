@@ -1,4 +1,7 @@
-# cooperasharp
+<p align="center">
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/1dab32df-1ef7-46d3-8bc4-0922336b2332" />
+</p>
+
 
 O Coopera#sharp é uma iniciativa colaborativa voltada para a comunidade de desenvolvedores(as) C#, com o objetivo de exercitar a avaliação crítica de código, promover boas práticas de desenvolvimento e fomentar discussões saudáveis sobre arquitetura e design de software.
 
@@ -10,4 +13,4 @@ Acima de tudo, valorizamos o respeito às opiniões e às trajetórias de cada p
 
 ---
 >[!IMPORTANT]     
->🚀 Junte-se à discussão. Poste sua solução, leia outras abordagens e compartilhe sua visão. Vamos crescer juntos, na base do código e da colaboração.
+>🚀 Junte-se à [discussão](https://github.com/yanjustino/cooperasharp/discussions). Poste sua solução, leia outras abordagens e compartilhe sua visão. Vamos crescer juntos, na base do código e da colaboração.
